@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.2](https://github.com/folke/tokyonight.nvim/compare/v3.0.1...v3.0.2) (2024-01-24)
+
+
+### Bug Fixes
+
+* re-add `[@punctuation](https://github.com/punctuation).special` ([#484](https://github.com/folke/tokyonight.nvim/issues/484)) ([b37bc55](https://github.com/folke/tokyonight.nvim/commit/b37bc55d10fd575e9b7b713c59e07c85cb810f67))
+
 ## [3.0.1](https://github.com/folke/tokyonight.nvim/compare/v3.0.0...v3.0.1) (2024-01-21)
 
 
